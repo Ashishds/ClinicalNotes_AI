@@ -14,6 +14,7 @@ A comprehensive AI-powered clinical documentation platform designed for healthca
 - **Real-time Processing**: Stream AI responses for immediate feedback
 - **HIPAA Compliant**: Enterprise-grade security and compliance
 - **Professional Authentication**: Secure user management with Clerk
+<img width="1836" height="923" alt="Capture" src="https://github.com/user-attachments/assets/64a01c74-3ff7-41b0-ac25-827cf2602eb2" />
 
 ## 🚀 Technology Stack
 
