@@ -1,3 +1,7 @@
+# My Awesome Project
+Check out the **live demo** https://saas-nine-delta.vercel.app/
+
+
 # ClinicalNotes AI - Professional Medical Documentation Platform
 
 A comprehensive AI-powered clinical documentation platform designed for healthcare professionals. Transform your consultation notes into professional medical summaries, actionable follow-up plans, and patient communications using advanced artificial intelligence.
